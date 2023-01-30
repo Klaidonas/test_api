@@ -1,0 +1,86 @@
+{
+  "posts": [
+    {
+      "name": "name1",
+      "region": "Oceania",
+      "area": 6300.5,
+      "independence": "false"
+    },
+    {
+      "name": "name3",
+      "region": "Oceania",
+      "area": 65300.5,
+      "independence": "false"
+    },
+    {
+      "name": "name2",
+      "region": "region2",
+      "area": "area2",
+      "independence": "false"
+    },
+    {
+      "name": "name4",
+      "region": "region4",
+      "area": 1234,
+      "independence": "false"
+    },
+    {
+      "name": "name5",
+      "region": "Oceania",
+      "area": "area5",
+      "independence": "false"
+    },
+    {
+      "name": "name6",
+      "region": "Oceania",
+      "area": 99999,
+      "independence": "false"
+    },
+    {
+      "name": "name1",
+      "region": "Oceania",
+      "area": 6300.5,
+      "independence": "false"
+    },
+    {
+      "name": "name3",
+      "region": "Oceania",
+      "area": 65300.5,
+      "independence": "false"
+    },
+    {
+      "name": "name2",
+      "region": "region2",
+      "area": "area2",
+      "independence": "false"
+    },
+    {
+      "name": "name4",
+      "region": "region4",
+      "area": 1234,
+      "independence": "false"
+    },
+    {
+      "name": "name5",
+      "region": "Oceania",
+      "area": "area5",
+      "independence": "false"
+    },
+    {
+      "name": "name6",
+      "region": "Oceania",
+      "area": 99999,
+      "independence": "false"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
